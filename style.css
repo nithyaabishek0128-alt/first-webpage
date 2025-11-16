@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+ul,li,h1{
+    display: inline;
+}
+ul{
+    margin-left: 62%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+img{
+    padding: 25px;
+}
+video{
+    padding: 25px;
+}
+footer{
+    padding: 25px;
+}
